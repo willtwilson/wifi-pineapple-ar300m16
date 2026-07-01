@@ -1,0 +1,6 @@
+firmware/
+*.bin
+*.img
+*.tar
+*.swp
+*~
